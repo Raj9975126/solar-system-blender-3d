@@ -1,0 +1,107 @@
+# ==============================================================================
+# 🪐 10-MINUTE SOLAR SYSTEM DOCUMENTARY: SCENE-BY-SCENE PRODUCTION SCRIPT
+# ==============================================================================
+
+TARGET DURATION: 10 Minutes (600 Seconds)
+PACING: ~130 - 140 words per minute (Calm, cinematic, Neil deGrasse Tyson / David Attenborough documentary style)
+LANGUAGE: English (with Hindi reference in separate file)
+
+--------------------------------------------------------------------------------
+SCENE 1: THE COSMIC DAWN & THE SUN (0:00 - 1:15)
+--------------------------------------------------------------------------------
+[Visual Prompt for AI Video]:
+"Cinematic 4K cosmic shot slowly zooming out from deep space into the brilliant glowing heart of the Solar System. The Sun burning with fiery solar flares, coronal loops, incandescent yellow-orange plasma, and soft volumetric space lighting. Epic orchestral ambient sci-fi music."
+[Reference Image]: Sun_shot.png
+
+[Voiceover Narration (0:00 - 1:15)]:
+"In the boundless dark expanse of the Milky Way galaxy, nearly 4.6 billion years ago, a massive cloud of interstellar gas and dust collapsed under its own gravity. From this cosmic crucible, our Solar System was born. At its very center sits an incandescent powerhouse: the Sun. Containing over ninety-nine point eight percent of all the mass in our entire solar system, this gargantuan ball of hydrogen and helium fusion fuels everything we see. Its immense gravity holds eight planets, hundreds of moons, and millions of asteroids in an eternal gravitational waltz. Today, we embark on an extraordinary ten-minute voyage across billions of miles, exploring every celestial world orbiting our home star."
+
+--------------------------------------------------------------------------------
+SCENE 2: MERCURY - THE SCORCHED MESSENGER (1:15 - 2:15)
+--------------------------------------------------------------------------------
+[Visual Prompt for AI Video]:
+"Close-up flyby of planet Mercury, heavily cratered dark grey rocky surface, blazing sunlight reflecting off rocky ridges, stark pitch black sky filled with sharp stars, smooth camera orbit."
+[Reference Image]: Mercury_shot.png
+
+[Voiceover Narration (1:15 - 2:15)]:
+"Our first stop brings us to Mercury, the smallest and innermost planet. Mercury is a world of extreme contradictions. With virtually no atmosphere to trap heat or shield its crust, temperatures here swing wildly from an incinerating four hundred and thirty degrees Celsius during the day, down to a freezing minus one hundred and eighty degrees Celsius at night. Its surface resembles our Moon, scarred by billions of years of meteorite impacts. Despite being so close to the Sun, radar observations reveal water ice hiding permanently inside deep, shadowy polar craters where sunlight never reaches. Mercury orbits the Sun at an astonishing speed of forty-seven kilometers per second, completing an entire year in just eighty-eight Earth days."
+
+--------------------------------------------------------------------------------
+SCENE 3: VENUS - THE RUNAWAY GREENHOUSE (2:15 - 3:15)
+--------------------------------------------------------------------------------
+[Visual Prompt for AI Video]:
+"Sweeping orbit shot of Venus shrouded in thick yellowish-golden cloud haze, dense sulfuric atmosphere with glowing atmospheric rim, dramatic cinematic lighting."
+[Reference Image]: Venus_shot.png
+
+[Voiceover Narration (2:15 - 3:15)]:
+"Moving outward, we arrive at Earth’s so-called twin in size, Venus. But beneath its radiant, golden-hazed cloud canopy lies a living inferno. Venus suffers from a catastrophic runaway greenhouse effect. Its atmosphere is over ninety-six percent carbon dioxide, creating a crushing atmospheric pressure ninety times greater than that of Earth—equivalent to being one kilometer beneath the ocean. Surface temperatures soar past four hundred and sixty degrees Celsius, hot enough to melt lead. Strangely, Venus spins backwards compared to most planets, in retrograde motion, meaning on Venus, the Sun rises in the west and sets in the east. It is a stark reminder of how fragile a planet's climate balance truly is."
+
+--------------------------------------------------------------------------------
+SCENE 4: EARTH & THE MOON - THE OASIS OF LIFE (3:15 - 4:45)
+--------------------------------------------------------------------------------
+[Visual Prompt for AI Video]:
+"Photorealistic breathtaking shot of Earth, vibrant deep blue oceans, verdant continents, swirling white atmospheric clouds hovering in 3D casting soft shadows, the Moon slowly orbiting in the background, sunlight glinting off the water."
+[Reference Image]: Earth_shot.png & Earth_Closeup.png
+
+[Voiceover Narration (3:15 - 4:45)]:
+"And then, amid the harsh sterility of the cosmos, we behold a miracle: Earth. The pale blue dot. Situated perfectly within the habitable Goldilocks zone, Earth is the only known celestial sanctuary where water exists in liquid form, shielded by a protective magnetic magnetosphere and a life-sustaining atmosphere. Floating alongside Earth is our faithful cosmic partner, the Moon. For billions of years, the Moon’s gravitational tug has stabilized Earth’s axial tilt, regulating our seasons and driving the tides that first nudged ancient life from the oceans onto land. From the deepest Mariana Trench to the highest Himalayan peaks, Earth represents an astonishing four-billion-year symphony of biology, geology, and consciousness."
+
+--------------------------------------------------------------------------------
+SCENE 5: MARS - THE RUSTED FRONTIER (4:45 - 5:50)
+--------------------------------------------------------------------------------
+[Visual Prompt for AI Video]:
+"Low orbital camera pan over planet Mars, rusty red-orange deserts, gigantic canyon network of Valles Marineris, bright white polar ice caps gleaming in cold sunlight, sharp dusty atmosphere."
+[Reference Image]: Mars_shot.png
+
+[Voiceover Narration (4:45 - 5:50)]:
+"Crossing outward, we reach the fourth planet: Mars, the Red Planet. Its distinctive crimson hue comes from widespread iron oxide—rust—blanketing its dry, dusty terrain. Mars is a world of colossal geological monuments. Here lies Olympus Mons, a shield volcano three times the height of Mount Everest, and Valles Marineris, a canyon system that would stretch across the entire United States. While Mars today is a frigid, desert world with a whisper-thin carbon dioxide atmosphere, dried river deltas and lake beds prove that billons of years ago, vast lakes and rivers once flowed across its surface. Today, rovers and orbiters search for subterranean fossilized clues, making Mars humanity's foremost candidate for future interplanetary colonization."
+
+--------------------------------------------------------------------------------
+SCENE 6: THE ASTEROID BELT - COSMIC BUILDING BLOCKS (5:50 - 6:30)
+--------------------------------------------------------------------------------
+[Visual Prompt for AI Video]:
+"Cinematic gliding camera weaving through thousands of tumbling rocky and metallic asteroids scattered across a wide orbital disc, distant bright Sun lighting up jagged asteroid surfaces."
+[Reference Image]: Solar_System_Overview.png
+
+[Voiceover Narration (5:50 - 6:30)]:
+"Between the orbits of Mars and Jupiter lies the Asteroid Belt—a vast debris field containing millions of rocky fragments leftover from the earliest epoch of planet formation. Prevented from coalescing into a full planet by Jupiter's massive gravitational tides, these asteroids range from tiny pebbles to Ceres, a dwarf planet holding one-third of the belt's total mass. They are pristine time capsules, preserving the raw ingredients from which all planets were crafted."
+
+--------------------------------------------------------------------------------
+SCENE 7: JUPITER - KING OF THE GAS GIANTS (6:30 - 7:45)
+--------------------------------------------------------------------------------
+[Visual Prompt for AI Video]:
+"Majestic slow reveal of Jupiter, dynamic banded clouds of ochre, cream, and terracotta swirling with violent storms, the Great Red Spot rotating into view, four small Galilean moons orbiting nearby."
+[Reference Image]: Jupiter_shot.png
+
+[Voiceover Narration (6:30 - 7:45)]:
+"Now, we enter the realm of the outer giants. Behold Jupiter: the undisputed king of planets. Jupiter is so colossal that all other planets in the solar system combined could easily fit inside it. A massive gas giant composed primarily of hydrogen and helium, Jupiter features mesmerizing atmospheric bands created by ferocious jet streams exceeding five hundred kilometers per hour. Its most legendary feature is the Great Red Spot—a titanic anticyclonic storm larger than Earth that has raged for at least four centuries. Surrounded by an entourage of ninety-five known moons, including volcanic Io and ocean-harboring Europa, Jupiter functions almost like a miniature solar system in its own right, acting as a gravitational shield protecting inner planets from incoming comets."
+
+--------------------------------------------------------------------------------
+SCENE 8: SATURN - JEWEL OF THE SOLAR SYSTEM (7:45 - 8:45)
+--------------------------------------------------------------------------------
+[Visual Prompt for AI Video]:
+"Magnificent wide-angle cinematic shot of Saturn and its breathtaking glowing concentric rings, golden butterscotch atmosphere, translucent icy ring particles catching the sunlight, showing the dark Cassini Division gap clearly."
+[Reference Image]: Saturn_shot.png
+
+[Voiceover Narration (7:45 - 8:45)]:
+"Further still sits the crown jewel of our solar system: Saturn. While other gas giants possess faint rings, Saturn’s ring system is unmatched in elegance and sheer scale. Stretching over two hundred and eighty thousand kilometers wide, yet astonishingly only ten to thirty meters thick, these rings are composed of trillions of glistening chunks of water ice and rock, ranging from tiny dust grains to house-sized boulders. Saturn is so low in average density that if you could find a bathtub large enough, the planet would actually float in water. Among its hundred-plus moons is Titan, a bizarre world endowed with a thick nitrogen atmosphere and liquid methane lakes."
+
+--------------------------------------------------------------------------------
+SCENE 9: URANUS & NEPTUNE - THE ICE GIANTS (8:45 - 9:30)
+--------------------------------------------------------------------------------
+[Visual Prompt for AI Video]:
+"Twin split cinematic sequence: first Uranus, a pale ice-cyan world tilted 98 degrees on its side with faint vertical rings; then cutting to Neptune, a deep sapphire blue world with whipping supersonic white storm wisps and deep cosmic contrast."
+[Reference Image]: Uranus_shot.png & Neptune_shot.png
+
+[Voiceover Narration (8:45 - 9:30)]:
+"Venturing into the frigid outer frontier, we encounter the Ice Giants: Uranus and Neptune. Uranus appears as a serene, pale cyan marble, containing vast mantles of water, ammonia, and methane ice. Uniquely, Uranus rotates entirely on its side with a ninety-eight-degree axial tilt—likely the scar of a catastrophic ancient collision. Beyond it orbits Neptune, an electric cobalt blue sphere battered by the most violent winds in the solar system, screaming at over two thousand kilometers per hour. Out here, thirty times further from the Sun than Earth, sunlight is a mere twilight glow."
+
+--------------------------------------------------------------------------------
+SCENE 10: THE COSMIC PERSPECTIVE & FINALE (9:30 - 10:00)
+--------------------------------------------------------------------------------
+[Visual Prompt for AI Video]:
+"Cinematic pull-back shot showing all glowing planetary orbit rings around the brilliant central Sun, fading into the star-studded Milky Way galaxy, gentle slow fade to black with epic closing chord."
+[Reference Image]: Solar_System_Overview.png
+
+[Voiceover Narration (9:30 - 10:00)]:
+"Beyond Neptune lies the realm of Pluto, the Kuiper Belt, and the mysterious Oort Cloud—the icy frontier stretching halfway to the nearest stars. Looking back across these billions of miles, our Solar System is not merely a collection of isolated spheres—it is a unified, clockwork marvel of physics, history, and cosmic evolution. A cradle that nurtured human curiosity, inviting us to look outward, to explore, and to wonder what lies beyond."

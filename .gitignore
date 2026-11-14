@@ -1,0 +1,5 @@
+.DS_Store
+*.blend1
+*.o
+build_presentation_video
+temp_raw_video.mp4

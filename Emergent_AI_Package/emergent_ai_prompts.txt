@@ -1,0 +1,97 @@
+# ==============================================================================
+# 🎬 EMERGENT AI VIDEO PROMPTS & ASSET MAPPING GUIDE
+# ==============================================================================
+
+How to use this in Emergent AI / AI Video Generator:
+1. Upload the corresponding image as an Image-to-Video (I2V) starting frame.
+2. Paste the prompt text into the prompt box.
+3. Set Camera Motion / Motion Bucket to: Smooth Slow Orbit / Push In.
+4. Set Duration to 5s - 10s per clip (stitch together according to the script).
+
+--------------------------------------------------------------------------------
+CLIP 01: THE SUN (Opening)
+--------------------------------------------------------------------------------
+[Input Image]: Sun_shot.png
+[Prompt]:
+Cinematic 4K cosmic video, slow camera push into the blazing fiery surface of the Sun, solar flares erupting, incandescent yellow and orange plasma convection granules swirling, volumetric corona light rays piercing through deep space, photorealistic, 60fps.
+[Motion]: Slow zoom in + subtle clockwise roll.
+
+--------------------------------------------------------------------------------
+CLIP 02: MERCURY
+--------------------------------------------------------------------------------
+[Input Image]: Mercury_shot.png
+[Prompt]:
+Realistic 8K space footage of Mercury, slow orbital flyby past jagged craters and rugged grey mountain ridges, intense harsh sunlight casting long shadows across desolate terrain, starfield background, cinematic sci-fi documentary style.
+[Motion]: Smooth lateral orbit left to right.
+
+--------------------------------------------------------------------------------
+CLIP 03: VENUS
+--------------------------------------------------------------------------------
+[Input Image]: Venus_shot.png
+[Prompt]:
+Breathtaking orbital pan around Venus, thick golden cream and amber atmospheric haze, smooth swirling sulfuric acid cloud layers, subtle glowing blue-gold rim illumination, hyperrealistic space documentary.
+[Motion]: Slow orbit around the planet.
+
+--------------------------------------------------------------------------------
+CLIP 04: EARTH & MOON
+--------------------------------------------------------------------------------
+[Input Image]: Earth_shot.png (or Earth_Closeup.png)
+[Prompt]:
+Ultra-photorealistic 8K IMAX shot of planet Earth rotating in space, specular sunlight glinting off glossy deep blue oceans, detailed green and brown continents, fluffy white atmospheric cloud banks drifting smoothly with 3D depth, the Moon visible in the background, cinematic rim lighting.
+[Motion]: Slow axial planet rotation + subtle camera drift.
+
+--------------------------------------------------------------------------------
+CLIP 05: MARS
+--------------------------------------------------------------------------------
+[Input Image]: Mars_shot.png
+[Prompt]:
+Cinematic low-orbit pass over planet Mars, rusty red and ochre iron oxide dust plains, dramatic deep canyon walls of Valles Marineris, brilliant glistening white polar ice caps reflecting sunlight, National Geographic space quality.
+[Motion]: Slow forward tracking shot across the planet.
+
+--------------------------------------------------------------------------------
+CLIP 06: ASTEROID BELT
+--------------------------------------------------------------------------------
+[Input Image]: Solar_System_Overview.png
+[Prompt]:
+Epic slow-motion glide through the dense Asteroid Belt, irregularly shaped tumbling rocky asteroids lit by the distant blazing Sun, dust particles floating in void, deep space starfield, high dynamic range.
+[Motion]: Forward dolly through floating rocks.
+
+--------------------------------------------------------------------------------
+CLIP 07: JUPITER
+--------------------------------------------------------------------------------
+[Input Image]: Jupiter_shot.png
+[Prompt]:
+Majestic IMAX 8K view of giant planet Jupiter, turbulent atmospheric storm bands in ochre, cream, and terracotta swirling in opposite directions, the Great Red Spot spinning slowly, four tiny moons casting shadows onto the cloud tops, hyperrealistic physics.
+[Motion]: Slow majestic pan across the equatorial stripes.
+
+--------------------------------------------------------------------------------
+CLIP 08: SATURN & RINGS
+--------------------------------------------------------------------------------
+[Input Image]: Saturn_shot.png
+[Prompt]:
+Spectacular cinematic shot of Saturn and its luminous concentric rings, golden butterscotch atmosphere, translucent ice particles in the ring system reflecting warm solar light, the black void of the Cassini Division clearly defined, breathtaking sci-fi documentary aesthetic.
+[Motion]: Slow tilt-up camera movement rising above the ring plane.
+
+--------------------------------------------------------------------------------
+CLIP 09: URANUS
+--------------------------------------------------------------------------------
+[Input Image]: Uranus_shot.png
+[Prompt]:
+Ethereal orbital view of Uranus, pale aquamarine and ice-cyan smooth atmosphere, faint vertical translucent rings encircling the planet, tilted 98 degrees in deep dark space, cold moody atmospheric lighting.
+[Motion]: Gentle orbit showing the sideways axial tilt.
+
+--------------------------------------------------------------------------------
+CLIP 10: NEPTUNE
+--------------------------------------------------------------------------------
+[Input Image]: Neptune_shot.png
+[Prompt]:
+Striking cinematic portrait of planet Neptune, vivid deep cobalt and sapphire blue atmosphere, supersonic bright white cirrus clouds streaks racing across the surface, dramatic high-contrast cosmic lighting.
+[Motion]: Slow cinematic drift away from the planet.
+
+--------------------------------------------------------------------------------
+CLIP 11: FULL SOLAR SYSTEM (Finale)
+--------------------------------------------------------------------------------
+[Input Image]: Solar_System_Overview.png
+[Prompt]:
+Grand cosmic pull-back revealing the entire Solar System, glowing concentric orbital path trails of all planets revolving in perfect harmony around the brilliant central Sun, majestic galaxy backdrop, epic documentary finale shot.
+[Motion]: Smooth continuous zoom-out into infinity.

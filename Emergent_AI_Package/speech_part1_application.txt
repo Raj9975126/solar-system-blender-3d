@@ -1,0 +1,27 @@
+Hello everyone! Welcome to this complete presentation of our 3D Solar System project built entirely inside Blender.
+
+In this first five-minute section, I am going to walk you through the entire application, the 3D models, visual features, physics-based orbital mechanics, and astronomical details that we have designed.
+
+Let us start right at the center of the solar system: the Sun. In our project, the Sun is modeled as a high-density UV sphere with sixty-four segments and thirty-two rings. We created a dynamic, fiery solar surface using a procedural emission shader. Instead of using a simple flat yellow color, the surface features turbulent plasma granulation, sunspots, and incandescent hotspots that range from deep solar orange-red to brilliant white-gold. At the very center of the Sun, we placed a powerful eighteen-thousand-watt point light source. This acts as the physical luminary for the entire scene, casting realistic sunlight, directional illumination, and planetary shadows across space.
+
+Moving outward from the Sun, we have modeled all eight planets in their precise astronomical sequence, plus the dwarf planet Pluto and the Asteroid Belt.
+
+First, we arrive at Mercury, the smallest terrestrial planet. In our application, Mercury is positioned at a distance of eight units from the Sun. We textured it with a cratered, rocky surface with high roughness and dark basaltic colors. Because Mercury is closest to the Sun, it experiences the strongest gravitational pull, and in our animation, it orbits the fastest among all planets.
+
+Next is Venus. Often called Earth's twin in size, Venus has a thick, runaway greenhouse atmosphere. We modeled it with a dense, reflective golden-cream cloud blanket and an atmospheric haze. Uniquely, Venus rotates in retrograde motion, meaning it spins in the opposite direction compared to most planets, which we accurately programmed into its rotation driver.
+
+Third is our home planet, Earth, and this is one of the most detailed models in the entire application. Earth is constructed using a two-sphere physical setup. The inner sphere represents the planet's surface, featuring deep glossy blue oceans that realistically catch the Sun's specular reflection, verdant green continents, brown mountain ranges, and pure white polar ice caps at the North and South poles. Hovering slightly above the surface at a scale of one point zero one eight is a second, semi-transparent sphere that contains procedural swirling white clouds. These clouds drift independently across the continents, creating real-time shadows and atmospheric depth. Accompanying Earth is the Moon, which orbits Earth in real-time.
+
+Fourth is Mars, the Red Planet. Mars features an iron-oxide rust-colored surface, darker canyon basins, and gleaming white polar ice caps.
+
+Between Mars and the outer gas giants, we created the Asteroid Belt. This is composed of one hundred and thirty individual, tumbling rocky asteroids scattered randomly between distances twenty-eight and thirty-three point five, all revolving harmoniously around the Sun.
+
+Beyond the asteroid belt, we enter the realm of the giant planets. First is Jupiter, the largest planet in our solar system. We scaled Jupiter to two point five times the size of Earth, and gave it its iconic banded atmosphere with turbulent alternating stripes of cream, ochre, and terracotta, accompanied by its four Galilean moons: Io, Europa, Ganymede, and Callisto.
+
+Next is Saturn, the jewel of the solar system. Saturn features a magnificent planar multi-ring disc tilted at twenty-six point seven degrees. Using a custom radial shader, we accurately rendered the bright B-ring, the outer A-ring, and the famous dark Cassini Division gap between them.
+
+Further out are the Ice Giants: Uranus, rendered in a pale cyan-blue with its extreme ninety-seven-point-eight-degree axial tilt and vertical rings, and Neptune, a deep sapphire blue world with storm wisps.
+
+Finally, each planet has a glowing three-dimensional orbit path curve, and the entire scene is enclosed in a procedural cosmic starfield. When you press the Spacebar in Blender, all planets revolve around the Sun and spin on their axes simultaneously at scientifically scaled speeds.
+
+Now, let us move to the second part of our presentation, where we will dive deep into the Python code and Blender shader architecture.
